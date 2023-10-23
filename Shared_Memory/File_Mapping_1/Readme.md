@@ -1,3 +1,9 @@
+For data Sharing between 2 or more processes, we use this technique
+
+What is File Mapping:
+https://learn.microsoft.com/en-us/windows/win32/memory/file-mapping
+
+
 Creating File Mapping Object in RAM :
 ============================================
 CreateFileMapping():
