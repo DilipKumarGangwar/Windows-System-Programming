@@ -1,4 +1,4 @@
-Creating File Mapping Object in RAM ( + disk):
+Creating File Mapping Object in RAM :
 ============================================
 CreateFileMapping():
 Creates or opens a named or unnamed file mapping object for a specified file.
