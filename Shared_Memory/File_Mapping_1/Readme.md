@@ -71,3 +71,6 @@ HANDLE OpenFileMapping(
 If the function succeeds, the return value is an open handle to the specified file mapping object.
 If the function fails, the return value is NULL. 
 
+Resources:
+https://www.youtube.com/watch?v=Dk6v8wIpJWk&t=208s
+https://www.youtube.com/watch?v=QEpdiorTLIg&t=920s
